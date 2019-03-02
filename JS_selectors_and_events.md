@@ -4,7 +4,7 @@ Utilizando o projeto Laravel Tarefas, vamos melhorar a experiência do usuário 
 
 Primeiro devemos incluir a tag `<script><script/>` na nossa _view_ principal do projeto, localizada na pasta _\tarefas\resources\views_
 
-![Pictue 01](images\picture01.png)
+![Pictue 01](images/picture01.png)
 
 Dentro da tag `<script></script>` declarar na propriedade `src` o caminho do arquivo JavaScript que vamos desenvolver. Perceba que estamos adicionando a propriedade `defer`, ela é utilizada para que o Navegador não espere a execução completa do script para carregar o restante da página. Outra forma de conseguir o mesmo resultado é incluindo a tag ao final do HTML.
 
